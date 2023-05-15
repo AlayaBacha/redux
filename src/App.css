@@ -1,0 +1,93 @@
+/* *{
+  background-image: url(https://cdn.pellerex.com/public/ecosystem/web/content/identity/react-identity-check/react-redux.png);
+  opacity: 0.5;
+  background-size: cover;
+  background-repeat: no-repeat;
+} */
+body{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmJiGiEuzAUvb5kRUUWxOV5U8KiCsXkx5JAzZZ0dlJuLKhqPCjWnt4iLXthIonPN01Hc0&usqp=CAU);
+  /* opacity: 0.5; */
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  
+}
+.alaya{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    border-style: solid;
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 60px;
+    border-radius: 80px;
+}
+.nav{
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  margin-top: 20px;
+  background-color:rgb(70, 44, 63);
+  margin-left: 60px;
+  margin-right: 60px;
+  border-radius: 80px;
+  height: 50px;
+}
+.bt{
+  width: 100px;
+  height: 39px;
+  border-radius: 80px;
+  border: none;
+  margin-top: 6px;
+}
+.aa{
+  margin-left: 911px;
+  border-radius: 80px;
+  border: none;
+  margin-top: 6px;
+
+}
+.ee{
+  margin-right: 50px;
+  border-radius: 80px;
+  border: none;
+  margin-top: 6px;
+
+}
+h3{
+  margin-left: 6px;
+}
+.nn{
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  
+}
+.islem{
+  text-decoration: line-through;
+  
+}
+.in{
+  border: none;
+}
+.jj{
+  border-radius: 80px;
+  border: none;
+  margin-top: 6px;
+}
+.mm{
+  width: 1000px;
+  height: 39px;
+  border-radius: 80px;
+  border: none;
+  margin-top: 6px;
+}
+.qq{
+  width: 100px;
+  height: 39px;
+  border-radius: 80px;
+  border: none;
+  margin-top: 6px;
+  margin-left: 292px;
+}
